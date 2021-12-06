@@ -10,12 +10,16 @@
 
 ## 目录
 
-+   [Hadoop3 大数据分析](docs/bigdata-anal-hadoop3/SUMMARY.md)
-+   [Hadoop 和 R 大数据分析](docs/bigdata-anal-r-hadoop/SUMMARY.md)
-+   [Hadoop 深度学习](docs/dl-hadoop/SUMMARY.md)
-+   [Hadoop 集群部署手册](docs/hadoop-cluster-deploy/SUMMARY.md)
-+   [Hadoop 基础知识](docs/hadoop-essense/SUMMARY.md)
-+   [Hadoop 现代大数据处理](docs/mod-bigdata-proc-hadoop/SUMMARY.md)
++   [Hadoop 和 Flume 分布式日志收集](docs/flume-dist-log-col-hadoop/SUMMARY.md)
++   [Hadoop 初学者指南](docs/hadoop-begin-guide/SUMMARY.md)
++   [Hadoop MapReduce v2 秘籍](docs/hadoop-mapreduce-v2-cb/SUMMARY.md)
++   [Hadoop 操作与集群管理秘籍](docs/hadoop-op-cluster-mgt-cb/SUMMARY.md)
++   [HBase 管理秘籍](docs/hbase-admin-cb/SUMMARY.md)
++   [Hive 基础知识](docs/hive-essense/SUMMARY.md)
++   [Hadoop2 学习手册](docs/learn-hadoop2/SUMMARY.md)
++   [微软 SQLServer 2012 和 Hadoop](docs/ms-sqlsvr-2012-hadoop/SUMMARY.md)
++   [Hadoop MapReduce 优化指南](docs/opti-hadoop-mapreduce/SUMMARY.md)
++   [PIG 设计模式](docs/pig-design-ptn/SUMMARY.md)
 
 ## 贡献指南
 
