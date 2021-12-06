@@ -1,0 +1,7 @@
++   [微软 SQLServer 2012 和 Hadoop](README.md)
++   [零、前言](0.md)
++   [一、大数据和 Hadoop 简介](1.md)
++   [二、使用 Sqoop——SQL Server Hadoop 连接器](2.md)
++   [三、使用配置单元 ODBC 驱动](3.md)
++   [四、使用 SQL Server Analysis Services 创建数据模型](4.md)
++   [五、使用微软的自助式商业智能工具](5.md)
