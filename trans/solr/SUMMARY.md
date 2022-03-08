@@ -1,3 +1,4 @@
++   [Solr 教程](README.md)
 +   [一、Apache Solr：简介](01.md)
 +   [二、Solr 设置和管理](02.md)
 +   [三、信息检索](03.md)
@@ -9,4 +10,3 @@
 +   [九、附加功能](09.md)
 +   [十、传统扩展和 SolrCloud](10.md)
 +   [十一、语义搜索](11.md)
-+   [Solr 教程](README.md)
