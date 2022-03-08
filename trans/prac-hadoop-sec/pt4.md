@@ -1,5 +1,5 @@
 第四部分
 
-![image](../Images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 Hadoop 加密
