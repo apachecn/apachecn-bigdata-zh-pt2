@@ -1,5 +1,1 @@
-第四部分
-
-![image](img/frontdot.jpg)
-
-Hadoop 加密
+# 第四部分：Hadoop 加密

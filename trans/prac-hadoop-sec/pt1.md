@@ -1,5 +1,1 @@
-第一部分
-
-![image](img/frontdot.jpg)
-
-介绍 Hadoop 及其安全性
+# 第一部分：Hadoop 及其安全性简介
