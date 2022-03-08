@@ -8,19 +8,6 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 目录
-
-+   [Hadoop 和 Flume 分布式日志收集](docs/flume-dist-log-col-hadoop/SUMMARY.md)
-+   [Hadoop 初学者指南](docs/hadoop-begin-guide/SUMMARY.md)
-+   [Hadoop MapReduce v2 秘籍](docs/hadoop-mapreduce-v2-cb/SUMMARY.md)
-+   [Hadoop 操作与集群管理秘籍](docs/hadoop-op-cluster-mgt-cb/SUMMARY.md)
-+   [HBase 管理秘籍](docs/hbase-admin-cb/SUMMARY.md)
-+   [Hive 基础知识](docs/hive-essense/SUMMARY.md)
-+   [Hadoop2 学习手册](docs/learn-hadoop2/SUMMARY.md)
-+   [微软 SQLServer 2012 和 Hadoop](docs/ms-sqlsvr-2012-hadoop/SUMMARY.md)
-+   [Hadoop MapReduce 优化指南](docs/opti-hadoop-mapreduce/SUMMARY.md)
-+   [PIG 设计模式](docs/pig-design-ptn/SUMMARY.md)
-
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
