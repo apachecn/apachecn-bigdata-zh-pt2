@@ -1,4 +1,4 @@
-# Spark3 入门指南
+# Spark.NET 入门指南
 
 > 原文：[Introducing .NET for Apache Spark](https://zh.book4you.org/book/12007691/9bf54a)
 >

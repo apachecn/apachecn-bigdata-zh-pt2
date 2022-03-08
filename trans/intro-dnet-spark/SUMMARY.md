@@ -1,4 +1,4 @@
-+   [Spark3 入门指南](README.md)
++   [Spark.NET 入门指南](README.md)
 +   [第一部分：开始](pt1.md)
 	+   [一、了解 Apache Spark](01.md)
 	+   [二、配置 Spark](02.md)
