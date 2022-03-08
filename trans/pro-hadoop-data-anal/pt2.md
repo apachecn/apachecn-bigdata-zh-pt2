@@ -1,5 +1,4 @@
-# 第二部分
-架构和算法
+# 第二部分：架构和算法
 
 Architectures and Algorithms
 

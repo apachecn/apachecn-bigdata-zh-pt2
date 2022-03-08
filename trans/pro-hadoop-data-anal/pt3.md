@@ -1,5 +1,4 @@
-# 第三部分
-部件和系统
+# 第三部分：组件和系统
 
 Components and Systems
 
